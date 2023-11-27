@@ -1,3 +1,3 @@
 # nvchad-config
 
-this is what I currently have in my settings.
+This is what I currently have in my nvchad custom dir.
