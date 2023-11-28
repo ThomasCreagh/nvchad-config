@@ -11,6 +11,7 @@ M.rust_tools = {
   n = {
     ["<leader>rr"] = { "<cmd> Crun <CR>" },
     ["<leader>rt"] = { "<cmd> Ctest <CR>" },
+    ["<leader>rb"] = { "<cmd> Cbuild <CR>" },
   }
 }
 
