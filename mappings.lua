@@ -7,7 +7,7 @@ M.abc = {
 M.rust_tools = {
   plugin = true,
   n = {
-    ["<leader>rr"] = { "<cmd> RustRun <CR>" },
+    ["<leader>rr"] = { "<cmd> Crun <CR>" },
   }
 }
 
