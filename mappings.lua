@@ -1,5 +1,6 @@
 local M = {}
 
+ -- normal vim commands
 M.abc = {
   n = {
     ["<leader>qf"] = { "<cmd> q! <CR>" },
