@@ -8,6 +8,7 @@ M.rust_tools = {
   plugin = true,
   n = {
     ["<leader>rr"] = { "<cmd> Crun <CR>" },
+    ["<leader>rt"] = { "<cmd> Ctest <CR>" },
   }
 }
 
