@@ -1,7 +1,9 @@
 local M = {}
 
 M.abc = {
-  n = {}, i = {}
+  n = {
+    ["<leader>qf"] = { "<cmd> q! <CR>" },
+  }, i = {}
 }
 
 M.rust_tools = {
